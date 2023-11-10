@@ -4,4 +4,4 @@ Freddy Vega tiene 32 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
 
-Hola soy Eliaspc2 y este es un nuevo commit desde otra PC
+Hola soy Eliaspc2 es una persona que contribuye a este proyecto open source y este es un nuevo commit desde otra PC
